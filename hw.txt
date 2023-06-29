@@ -1,0 +1,9 @@
+1) Write programm which will be able to get user data
+: name / surname / email / password
+2) name -> must contain more than 5 symbols , with capitalize case
+3) surname -> required
+4) email -> should contain "@" , "." also symbols after "."
+5) password => must contain " latters , numbers and one of special
+symbols : ! , @ , # , $ , etc
+
+6) Write file if all above was True
